@@ -2,7 +2,7 @@
 Creates RNN using basic RNNs, LSTMs, or GRUs to make predictions on stock data. 
 
 ### TrainTestModel.py
-Main files. Used to train and test a model on provided stock data. Stock data gathered from Kaggle (https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
+Main files. Used to train and test a model on provided stock data. Stock data gathered from [Kaggle](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
 
 ### DefineModel.py
 Creates a model according to provided specifications (through arguments or default values) and saves it to be trained by other files
